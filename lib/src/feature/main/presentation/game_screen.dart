@@ -37,40 +37,18 @@ class _GameScreenState extends State<GameScreen> {
     });
   }
 
-  @override
-  void initState() {
-    super.initState();
-    if (isMusicPlaying) {
-      final branch = context.read<DialogueBloc>().state.currentBranch;
-
-      startMusic(
-          () => setState(() {}),
-          branch!.branchId.contains("C1")
-              ? 'episode 1'
-              : branch.branchId.contains("C2")
-                  ? 'episode 2'
-                  : branch.branchId.contains("C3")
-                      ? 'episode 3'
-                      : branch.branchId.contains("C4")
-                          ? 'episode 4'
-                          : branch.branchId.contains("Underworld")
-                              ? 'episode 5'
-                              : 'episode 6',);
-    }
-  }
+bool isMusicInit = false;
 
   @override
   Widget build(BuildContext context) {
     return BlocBuilder<DialogueBloc, DialogueState>(
       builder: (context, state) {
         if (state.isLoading || state.currentBranch == null) {
-          return Positioned.fill(
-            child: AppIcon(
-              asset: 'assets/images/Office Corridor.webp',
-              height: getHeight(context, percent: 1),
-              width: getWidth(context, percent: 1),
-              fit: BoxFit.fill,
-            ),
+          return AppIcon(
+            asset: 'assets/images/Office Corridor.webp',
+            height: getHeight(context, percent: 1),
+            width: getWidth(context, percent: 1),
+            fit: BoxFit.fill,
           );
         }
 
@@ -79,6 +57,23 @@ class _GameScreenState extends State<GameScreen> {
         final currentPhrase = _currentPhraseIndex < branch.phrases.length
             ? branch.phrases[_currentPhraseIndex]
             : null;
+
+        if (!isMusicInit) {
+          isMusicInit = true;
+          startMusic(
+              () => setState(() {}),
+          branch.branchId.contains("C1")
+              ? 'episode 1'
+              : branch.branchId.contains("C2")
+              ? 'episode 2'
+              : branch.branchId.contains("C3")
+              ? 'episode 3'
+              : branch.branchId.contains("C4")
+              ? 'episode 4'
+              : branch.branchId.contains("Underworld")
+              ? 'episode 5'
+              : 'episode 6',);
+        }
 
         if (_currentPhraseIndex == 0 && currentPhrase != null) {
           _currentSpeakerId = currentPhrase.speakerId;
@@ -477,6 +472,7 @@ class _DialogueBoxState extends State<DialogueBox> {
   Widget _buildFrame(BuildContext context, Color speakerColor) {
     return Container(
       padding: const EdgeInsets.all(16),
+
       decoration: const BoxDecoration(
         image: DecorationImage(
           image: AssetImage('assets/images/dialog.webp'),
@@ -497,7 +493,7 @@ class _DialogueBoxState extends State<DialogueBox> {
                 controller: _scrollController,
                 child: Padding(
                   padding:
-                      const EdgeInsets.symmetric(horizontal: 28, vertical: 32),
+                       EdgeInsets.symmetric(horizontal: isIpad(context)? 80: 28, vertical:isIpad(context)? 64: 32),
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
@@ -509,7 +505,7 @@ class _DialogueBoxState extends State<DialogueBox> {
                               widget.phrase!.speakerId,
                               style: TextStyle(
                                 color: speakerColor,
-                                fontSize: 28,
+                                fontSize: isIpad(context)? 40 :28,
                                 fontFamily: 'KZ',
                               ),
                             ),
@@ -519,8 +515,8 @@ class _DialogueBoxState extends State<DialogueBox> {
                       Center(
                         child: Text(
                           widget.phrase!.text.substring(0, _visibleTextLength),
-                          style: const TextStyle(
-                            fontSize: 24,
+                          style:  TextStyle(
+                            fontSize: isIpad(context)? 36: 24,
                             fontFamily: 'KZ',
                             color: Color(0xFF7B2500),
                           ),

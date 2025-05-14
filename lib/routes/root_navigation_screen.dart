@@ -19,6 +19,7 @@ class _RootNavigationScreenState extends State<RootNavigationScreen> {
   @override
   void initState() {
     super.initState();
+
     startMusic(() => setState(() {}), 'episode 1');
   }
 
@@ -47,7 +48,7 @@ Future<void> startMusic(VoidCallback setState, String music) async {
     );
     await audioPlayer.play(AssetSource('audio/$music.mp3'));
 
-    isMusicPlaying = true;
+   // isMusicPlaying = true;
     audioPlayer.setReleaseMode(ReleaseMode.loop);
     audioPlayer.setVolume(0.2);
 

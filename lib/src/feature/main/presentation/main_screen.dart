@@ -40,66 +40,70 @@ class _MainScreenState extends State<MainScreen> {
             width: getWidth(context, percent: 0.9),
           ),
         ),
-        Column(
-          children: [
-            const Spacer(),
-            const Spacer(),
-            Padding(
-              padding: const EdgeInsets.only(bottom: 44),
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  AnimatedButton(
-                    onPressed: () => context.push(
-                      '${RouteValue.home.path}/${RouteValue.game.path}',
-                    ),
-                    isMenu: true,
-                    child: Image.asset(
-                      'assets/images/continue.webp',
-                      fit: BoxFit.fitWidth,
-                      width: 240,
-                    ),
-                  ),
-                  Gap(12),
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                    children: [
-                      buildButton(
-                        context,
-                        'assets/images/new game.webp',
-                        () {
-                          context.read<DialogueBloc>().add(StartNewGameEvent());
-                          context.push(
-                              '${RouteValue.home.path}/${RouteValue.game.path}');
-                        },
+        SafeArea(
+          child: Column(
+            children: [
+              const Spacer(),
+              const Spacer(),
+              Padding(
+                padding: const EdgeInsets.only(bottom: 44),
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                  children: [
+                    AnimatedButton(
+                      onPressed: () => context.push(
+                        '${RouteValue.home.path}/${RouteValue.game.path}',
                       ),
-                      buildButton(
-                        context,
-                        'assets/images/episodes.webp',
-                        () {
-                          context.push(
-                              '${RouteValue.home.path}/${RouteValue.chapters.path}');
-                        },
+                      isMenu: true,
+                      child: Image.asset(
+                        'assets/images/continue.webp',
+                        fit: BoxFit.fitWidth,
+                        width: 240,
                       ),
-                    ],
-                  ),
-                ],
+                    ),
+                    Gap(12),
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                      children: [
+                        buildButton(
+                          context,
+                          'assets/images/new game.webp',
+                          () {
+                            context.read<DialogueBloc>().add(StartNewGameEvent());
+                            context.push(
+                                '${RouteValue.home.path}/${RouteValue.game.path}');
+                          },
+                        ),
+                        buildButton(
+                          context,
+                          'assets/images/episodes.webp',
+                          () {
+                            context.push(
+                                '${RouteValue.home.path}/${RouteValue.chapters.path}');
+                          },
+                        ),
+                      ],
+                    ),
+                  ],
+                ),
               ),
-            ),
-          ],
+            ],
+          ),
         ),
         Positioned(
           top: 25,
           left: 18,
-          child: AnimatedButton(
-            isMenu: true,
-            onPressed: _toggleMusic,
-            child: Image.asset(
-              isMusicPlaying
-                  ? 'assets/images/sound on.webp'
-                  : 'assets/images/sound off.webp',
-              height: getHeight(context, baseSize: 64),
-              fit: BoxFit.fitHeight,
+          child: SafeArea(
+            child: AnimatedButton(
+              isMenu: true,
+              onPressed: _toggleMusic,
+              child: Image.asset(
+                isMusicPlaying
+                    ? 'assets/images/sound on.webp'
+                    : 'assets/images/sound off.webp',
+                height: getHeight(context, baseSize: 64),
+                fit: BoxFit.fitHeight,
+              ),
             ),
           ),
         ),

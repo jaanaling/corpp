@@ -119,7 +119,7 @@ class episodes extends StatelessWidget {
               width: getWidth(context, percent: 0.6),
             ),
             Positioned(
-              bottom: 30,
+              bottom: isIpad(context)? 90: 30,
               left: 0,
               right: 0,
               child: SizedBox(
@@ -127,8 +127,8 @@ class episodes extends StatelessWidget {
                 child: Text(
                   name,
                   textAlign: TextAlign.center,
-                  style: const TextStyle(
-                    fontSize: 24,
+                  style:  TextStyle(
+                    fontSize: isIpad(context)? 48: 24,
                     fontFamily: 'KZ',
                     color: Color(0xFFFFBB00),
                   ),
