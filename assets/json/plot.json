@@ -1,0 +1,4903 @@
+[
+    {
+        "branchId": "C1B1",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Apollo sets up a selfie station labelled 'Divine Vibes Only'."
+            },
+            {
+                "speakerId": "NARRATOR",
+                "text": "Ares flexes, declaring himself ‘captain of morale combat’."
+            },
+            {
+                "speakerId": "NARRATOR",
+                "text": "Hera brandishes a flip‑chart titled ‘Trust Fall Metrics’."
+            },
+            {
+                "speakerId": "NARRATOR",
+                "text": "Zeus attempts to hide behind a potted plant to dodge participation."
+            },
+            {
+                "speakerId": "NARRATOR",
+                "text": "Hermes sprints past with twenty boxes of colored balloons."
+            },
+            {
+                "speakerId": "NARRATOR",
+                "text": "Athena rolls her eyes at Dionysus’ ‘karaoke warm‑up’."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "I brought the microphone and eighteen playlists—let’s find your spirit anthem!"
+            },
+            {
+                "speakerId": "Hera",
+                "text": "If anyone drops me in a trust‑fall, the audit will be swift and merciless."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Team‑building cookies, fresh from the oven—and laced with accountability."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "I’ll fix the karaoke machine between screams—just another Tuesday."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Hashtag #DivinityAndChill is trending already!"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Join the silly activity.",
+                "nextDialogueBranchId": "C1B2"
+            },
+            {
+                "choiceText": "Hide in the break room.",
+                "nextDialogueBranchId": "C1B3"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B2",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Hera brandishes a flip‑chart titled ‘Trust Fall Metrics’. "
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Calm, everyone—remember, warmth is part of the brand."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Peace is just a pause between meetings—let’s skip to the conflict."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Thunderbolts? Please, the real power is budget approvals… like approving this balloon budget."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Love is in the air—along with burnt coffee aroma."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Team‑building cookies decreasing in number, trust decreasing faster."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "If my sea routes were as clogged as this karaoke queue, we'd be sunk."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Hold my winged sneakers, I’ve got twenty coffee orders to fetch."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Someone jammed the printer with confetti. Must be Tuesday."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Viral marketing is easy—just be me."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Karaoke machine fixed? Excellent—prepare for power ballads and probable HR violations!"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Attempt a group trust‑fall.",
+                "nextDialogueBranchId": "C1B3"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B3",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "If anyone needs me, I’ll be signing thunderbolt memorabilia in the supply closet."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Philosophy break: are we gods if we still need Wi‑Fi?"
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Speed is great—accuracy optional!"
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Conflict resolution? First, we need more conflict."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Innovation starts when inhibitions end—want a grape‑flavoured epiphany?"
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Trust is earned—and according to my ledger, you’re overdrawn."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Benefits package upgraded: more compliments for me."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Eat your grains; conquer your domains."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Fun fact: rebooting solves 90 % of divine problems."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Nothing like the scent of salt water and corporate desperation in the morning."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "If it’s not trending, does it even exist?"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Attempt a group trust‑fall.",
+                "nextDialogueBranchId": "C1B4"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B4",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "Poseidon",
+                "text": "Hephaestus reluctantly fixes the karaoke machine between screams."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Remember, feedback is a gift—and I’m the god of re‑gifting."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "If wisdom were coffee, you'd all still be decaf."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Package delivered! Wait—wrong floor again."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Synergy means everyone follows my orders."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "HR tip: flirting is fine—if you look this good."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Last team‑building ended with karaoke and mild fire damage. Success!"
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Expense report says ‘team morale’. Explain the confetti cannon, Zeus."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Nothing grows in this cafeteria except my frustration."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "If it sparks, smokes, or screams, I'm on it."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Who needs sunlight when you’ve got ring lights?"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Attempt a group trust‑fall.",
+                "nextDialogueBranchId": "C1B5"
+            },
+            {
+                "choiceText": "Escape to rooftop for ‘team reflection’.",
+                "nextDialogueBranchId": "C1B6"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B5",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "Hestia",
+                "text": "Let chaos clash outside; reception is a sanctuary—but this room clearly isn't."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Who wants to settle this in the parking lot? No? Cowards."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Did someone steal my lunch or my legacy? Hard to tell."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Sarcasm is my love language; consider yourselves adored."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I clocked a 4‑minute mile between desks today. Personal best!"
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Shipping containers are like oceans: vast, salty, and full of surprises."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Conflict? Let’s smooth it over with charm and lip gloss."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Organic snacks? Devoured before noon."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Wielding a wrench beats wielding a PowerPoint."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Team spirit—or just spirits? I’m flexible."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "My selfie with the copier got 10k likes. Corporate influencer life."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Attempt a group trust‑fall.",
+                "nextDialogueBranchId": "C1B7"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B6",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "Numbers never lie—unlike some board members I could name."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "I wrote a memo. No one read it. Tragedy—or farce?"
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I fight paperwork with actual punches. Metaphorical—mostly."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Hold my winged sneakers—coffee delivery run #27!"
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "I told them to implement tidal scheduling. They laughed. Fools."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "I scheduled a mandatory self‑care hour. It’s mostly mirror time."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Margarita Mondays are now Everyday‑days. Objections?"
+            },
+            {
+                "speakerId": "Hera",
+                "text": "If fidelity were an asset, we'd be bankrupt."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "We’re out of ambrosia—again."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Someone jammed the printer—again."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Autotuned the quarterly report. You’re welcome."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Please remove your drama before the front desk."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Attempt a group trust‑fall.",
+                "nextDialogueBranchId": "C1B7"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B7",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "Ares",
+                "text": "Peace is just a pause between meetings."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "If wisdom were coffee, you'd all still be decaf."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Speed is great—accuracy optional!"
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Nothing like the scent of salt water and corporate desperation in the morning."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Thunderbolts? Please, the real power is in budget approvals."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "HR tip: flirting is fine—if you look this good."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Innovation starts when inhibitions end."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Expense report says ‘team morale’. Define ‘morale’."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Eat your grains; conquer your domains."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "If it sparks, smokes, or screams, I'm on it."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "If it’s not trending, does it even exist?"
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Fresh tea in the lobby—warmth is part of the brand."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Attempt a group trust‑fall.",
+                "nextDialogueBranchId": "C1B8"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B8",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "Athena",
+                "text": "Sarcasm is my love language; consider yourselves adored."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "If my sea routes were as clogged as this karaoke queue, we'd be sunk."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I clocked a 4‑minute mile between desks today. Personal best!"
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Conflict resolution? First, we need more conflict."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Did someone steal my lunch or my legacy? Hard to tell."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Benefits package upgraded: more compliments for me."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Last team‑building ended with karaoke and mild fire damage. Success!"
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Trust is earned—and according to my ledger, you're overdrawn."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Nothing grows in this cafeteria except my frustration."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Wielding a wrench beats wielding a PowerPoint."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "My selfie with the copier got 10k likes. Corporate influencer life."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Calm is a competitive advantage."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Attempt a group trust‑fall.",
+                "nextDialogueBranchId": "C1B9"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B9",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "Athena",
+                "text": "Philosophy break: are we gods if we still need Wi‑Fi?"
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Shipping containers are like oceans: vast, salty, and full of surprises."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Package delivered! Wait—wrong floor again."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Synergy means everyone follows my orders."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Numbers never lie—unlike some board members I could name."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Love is in the air—along with burnt coffee aroma."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Margarita Mondays are now Everyday‑days. Objections?"
+            },
+            {
+                "speakerId": "Hera",
+                "text": "I've balanced the books—and my patience."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Organic snacks? Devoured before noon."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Someone jammed the printer—again."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Autotuned the quarterly report. You’re welcome."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Please remove your drama before the front desk."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Attempt a group trust‑fall.",
+                "nextDialogueBranchId": "C1B10"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B10",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "Ares",
+                "text": "Who wants to settle this in the parking lot? No? Cowards."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "I wrote a memo. No one read it. Tragedy—or farce?"
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Hold my winged sneakers, I've got 30 coffee orders to fetch."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Nothing like the scent of salt water and corporate desperation in the morning."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Remember, feedback is a gift—and I'm the god of re‑gifting."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Conflict? Let's smooth it over with charm and lip gloss."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Team spirit—or just spirits? I’m flexible."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "If fidelity were an asset, we'd be bankrupt."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "We’re out of ambrosia—again."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Fun fact: rebooting solves 90 % of divine problems."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "If it’s not trending, does it even exist?"
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Fresh tea in the lobby—warmth is part of the brand."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Attempt a group trust‑fall.",
+                "nextDialogueBranchId": "C1B11"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B11",
+        "location": "Rooftop Terrace",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Chapter 1 – Team‑Building Turmoil: Scene 11, sunset on the roof."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "The city lights bow before me—or is that just my reflection in the window?"
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "At least the air up here isn’t full of karaoke confetti."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Strategic note: fresh air improves morale by 3 %. Karaoke reduces it by 30 %."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Great lighting for golden‑hour selfies—stand closer to the thunderbolt, Zeus."
+            },
+            {
+                "speakerId": "Artemis",
+                "text": "Security says the railing is not rated for divine egos—step back."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I can get snacks from the lobby in thirty seconds flat. Roof service!"
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Wine tastes better above sea level—science or sorcery?"
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Zeus, if you propose sky‑high budget cuts again, I’ll test gravity on your expense reports."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "If this neon sign shorts out, it’s a long drop to the warranty center."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Wind‑blown hair is the cheapest glam squad."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "I planted herbs in that planter—stop calling them ‘garnish’!"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Hold an impromptu rooftop trust‑fall (again).",
+                "nextDialogueBranchId": "C1B12"
+            },
+            {
+                "choiceText": "Sneak back downstairs to avoid HR violations.",
+                "nextDialogueBranchId": "C1B13"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B12",
+        "location": "Rooftop Terrace",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Scene 12: the ‘trust‑fall’ that nobody trusts."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I’ll catch whoever jumps—maybe."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Probability of injury: 73 %. Probability of lawsuit: inevitable."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Risk builds character…and legal fees."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I’m timing this for the highlight reel."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "If anyone drops me, you’ll be single forever."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Warm hearts, not broken bones—please step away from the ledge."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Jump! The grape‑flavoured safety net is metaphorical."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "I installed extra bolts—on the ground floor."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Audit note: equipment missing—common sense."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Actually jump (YOLO).",
+                "nextDialogueBranchId": "C1B14"
+            },
+            {
+                "choiceText": "Declare the exercise ‘symbolic’ and leave.",
+                "nextDialogueBranchId": "C1B15"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B13",
+        "location": "Office Corridor",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Scene 13: whispers echo down the fluorescent hallway."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Stealth‑mode engaged—thunderbolts on silent."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "The carpet’s an ocean of spilled lattes."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Every fluorescent flicker is a cry for triage…and better funding."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Let’s ambush the break‑room snacks—morale through conquest."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Overheard: Dionysus planning karaoke after‑party. Run?"
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Mirror check: yes, corridor lighting flatters me."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Printer jam count: 12. My patience gauge: melted."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Expense audit: who ordered glow‑sticks labelled ‘mandatory fun’?"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Raid the cafeteria for strategic carbs.",
+                "nextDialogueBranchId": "C1B15"
+            },
+            {
+                "choiceText": "Slip into the conference room to hide.",
+                "nextDialogueBranchId": "C2B1"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B14",
+        "location": "Security Storeroom",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Scene 14: emergency landing in Artemis’s domain."
+            },
+            {
+                "speakerId": "Artemis",
+                "text": "Gravity works. Paperwork now doubles."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "I landed gracefully—on someone’s stapler."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "I’ll file a risk assessment…after laughing."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Pain builds teamwork—or at least stories."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I caught the whole fall on 4K. Viral in 3…2…"
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Celebratory drinks? The medical waiver says yes."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Insurance premium hits like a thunderbolt."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Head to first‑aid (IT closet).",
+                "nextDialogueBranchId": "C1B15"
+            },
+            {
+                "choiceText": "Shrug it off and rejoin karaoke downstairs.",
+                "nextDialogueBranchId": "C2B1"
+            }
+        ]
+    },
+    {
+        "branchId": "C1B15",
+        "location": "Kitchen",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Scene 15: Chapter finale among coffee stains."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "I replenished the cookie tray—vanished already? Impressive, or tragic."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Thunderbolt‑shaped marshmallows—new corporate perk."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Strategy sugar‑rush approved—focus span now 15 seconds."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I outran the kettle to boiling point."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Victory is sweet—and crumbly."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Latte art counts as brand storytelling."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Someone jammed the toaster. It’s a pattern."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Budget note: caffeine outpaces payroll."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Kick off Chapter 2’s rebrand meeting early.",
+                "nextDialogueBranchId": "C2B1"
+            },
+            {
+                "choiceText": "Sneak back to rooftop to avoid responsibility.",
+                "nextDialogueBranchId": "C1B11"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B1",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Chapter 2 – Rebranding Mayhem: Scene 1. Neon angst fills the room."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Behold the new logo—so bright it tans you."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Live‑streaming to seventeen mortal influencers."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Brand guidelines thicker than Homer’s works—still unread."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Can we trademark thunder?"
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Palette looks sea‑sick; approved."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Couriered new business cards—names spelled creatively."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Champagne popping counts as brand launch."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Budget overrun glows brighter than the logo."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "I wired the sign. Radiation disclaimer optional."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Tweak colours to safer hues.",
+                "nextDialogueBranchId": "C2B2"
+            },
+            {
+                "choiceText": "Go full neon and blind the competition.",
+                "nextDialogueBranchId": "C2B3"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B2",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Scene 2: Athena leads a crisis‑friendly design sprint."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Step one: remove the glare; step two: reclaim dignity."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Fine, but I want glitter. Tasteful glitter."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "If it doesn’t thunder, it’s bland."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Add waves to the background. Sneak my brand in."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "I can solder glitter—watch."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Express shipping for sanity—pricey."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Every minute costs money. Speaking of—stop speaking."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Approve Athena’s balanced palette.",
+                "nextDialogueBranchId": "C2B4"
+            },
+            {
+                "choiceText": "Add Poseidon's waves anyway.",
+                "nextDialogueBranchId": "C2B5"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B3",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Scene 3: The neon option fries retinas and spirits."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Followers love danger lighting—engagement spiking!"
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "I glow like a divine traffic cone—perfect."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Behold brand supremacy!"
+            },
+            {
+                "speakerId": "Athena",
+                "text": "I foresee lawsuits and headaches."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "At least no one will miss the building at night."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Overnight courier: bulk sunglasses."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Insurance can’t cover taste."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Dial brightness down (sanity).",
+                "nextDialogueBranchId": "C2B4"
+            },
+            {
+                "choiceText": "Double the lumen output (chaos).",
+                "nextDialogueBranchId": "C2B5"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B4",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Scene 4: A compromise flickers to life."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Wisdom wins—dimmed enough to see charts again."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Glitter is visible, yet merciful."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Fine, but thunder‑audio plays on loop."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Subtle waves in print only—deal."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I’ll reprint everything by lunch. Probably."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Let’s toast to ‘tolerably bright’!"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Send final files to the printer.",
+                "nextDialogueBranchId": "C2B5"
+            },
+            {
+                "choiceText": "Secretly bump saturation later.",
+                "nextDialogueBranchId": "C2B3"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B5",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Scene 5: Printer meltdown or brand breakthrough?"
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Printer jam at page one—ominous sign."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "The gods may be immortal; toner isn’t."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Smite the printer! Wait—budget."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Paper tsunami imminent."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I can overnight a new printer—if mortals survive logistics."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "I’ll flirt the printer into submission—watch me."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Another overrun. Add it to the glowing ledger."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Drag the jammed printer to IT closet.",
+                "nextDialogueBranchId": "C2B6"
+            },
+            {
+                "choiceText": "Call Dionysus—convert jam into confetti party.",
+                "nextDialogueBranchId": "C2B3"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B6",
+        "location": "IT Closet",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Printer guts on the floor—corporate surgery begins."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I labelled the wires: ‘maybe’, ‘probably’, ‘don’t touch’."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Statistically, 60 % of jams are caused by hubris."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "My glitter is clogging the rollers? Impossible; glamorous, maybe."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "I could smite it—efficient, but smoky."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Just drown the thing; water solves every fire."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Let Hephaestus repair with divine duct tape.",
+                "nextDialogueBranchId": "C2B7"
+            },
+            {
+                "choiceText": "Abandon it and buy a shinier model.",
+                "nextDialogueBranchId": "C2B8"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B7",
+        "location": "IT Closet",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Behold—reassembled and 30 % angrier."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Excellent. Now it jams twice as fast."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I’ll schedule hourly maintenance—yesterday."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I volunteer a stress test—hammer‑style."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Authorize Ares’s ‘stress test’.",
+                "nextDialogueBranchId": "C2B9"
+            },
+            {
+                "choiceText": "Wheel the beast back to conference room.",
+                "nextDialogueBranchId": "C2B10"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B8",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "Dionysus",
+                "text": "Printer graveyard party! Confetti from jammed sheets—art!"
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Streaming live: #PaperJamJam."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Every torn sheet is a receipt for failure."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Fine, new printer. Gold‑plated, thunder‑proof."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Order luxury printer immediately.",
+                "nextDialogueBranchId": "C2B11"
+            },
+            {
+                "choiceText": "Salvage old printer parts for ‘eco’ optics.",
+                "nextDialogueBranchId": "C2B10"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B9",
+        "location": "Zeus’ Office",
+        "phrases": [
+            {
+                "speakerId": "Ares",
+                "text": "Stress test report: printer defeated in single combat."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Heroic—but costly."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Victory conditions unclear; budget impact crystal clear."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier on standby with replacement…again."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Hide destruction under decorative throw.",
+                "nextDialogueBranchId": "C2B12"
+            },
+            {
+                "choiceText": "Announce heroic rebrand launch delay.",
+                "nextDialogueBranchId": "C2B13"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B10",
+        "location": "Office Corridor",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Rolling 200 kg of regret through a narrow hallway—superb plan."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "At least it’s a conversation piece."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Paper trail resembles tidal wave—poetic."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Facilities will invoice us for flooring therapy."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Abandon printer in hallway ‘art installation’.",
+                "nextDialogueBranchId": "C2B12"
+            },
+            {
+                "choiceText": "Divert printer to rooftop for dramatic un‑veiling.",
+                "nextDialogueBranchId": "C2B13"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B11",
+        "location": "Office Open‑Space",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "Behold, the Zeus‑Jet 5000 printer—lightning‑fast, literally."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Specs: 1 000 ppm, 2 000 decibels, 0 sense."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Shipping cost: priceless. Actually, quadruple budget."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Approved. Loud equals powerful."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Unbox and test immediately.",
+                "nextDialogueBranchId": "C2B14"
+            },
+            {
+                "choiceText": "Schedule silent‑hour install to spare eardrums.",
+                "nextDialogueBranchId": "C2B12"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B12",
+        "location": "Office Open‑Space",
+        "phrases": [
+            {
+                "speakerId": "Hestia",
+                "text": "Calm décor clashes with screaming machinery; noted."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Paper scraps compost nicely—silver lining."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Chaos chic—very on trend."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Ink spills resemble abstract oceans; I approve."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Call emergency brand meeting (again).",
+                "nextDialogueBranchId": "C2B15"
+            },
+            {
+                "choiceText": "Push problem to next quarter—start lunch.",
+                "nextDialogueBranchId": "C3B1"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B13",
+        "location": "Rooftop Terrace",
+        "phrases": [
+            {
+                "speakerId": "Apollo",
+                "text": "Printer vs. skyline—epic content incoming."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Birds scatter like interns after feedback session."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "If it falls, gravity writes our press release."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Hold it steady—storms are brewing, literally."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Dump printer off roof ‘symbolically’.",
+                "nextDialogueBranchId": "C2B14"
+            },
+            {
+                "choiceText": "Wheel it back inside before HR sees.",
+                "nextDialogueBranchId": "C2B10"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B14",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Replacement printer detonated toner like fireworks."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "At least the neon logo is now speckled—unique branding."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Insurance adjuster on speed‑dial sighs in defeat."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Confetti achieved by other means—cheers!"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Embrace speckled logo, end chapter triumphantly.",
+                "nextDialogueBranchId": "C2B15"
+            },
+            {
+                "choiceText": "Declare total rebrand failure, pivot to thunderbolt merch.",
+                "nextDialogueBranchId": "C3B1"
+            }
+        ]
+    },
+    {
+        "branchId": "C2B15",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "Aphrodite",
+                "text": "Final reveal: dazzling, dangerous, possibly illegal."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "If mortals faint, we’ve nailed impact marketing."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "I’ll prepare a crisis FAQ—pre‑answered ‘why’ with ‘because’."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Couriered apology gift baskets: fiery hot sauce and sunglasses."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Celebrate victory with rooftop fireworks.",
+                "nextDialogueBranchId": "C3B1"
+            },
+            {
+                "choiceText": "Quietly unplug everything and hope auditors forget.",
+                "nextDialogueBranchId": "C3B1"
+            }
+        ]
+    },
+    {
+        "branchId": "C3B1",
+        "location": "Zeus’ Office",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Chapter 3 – The great thunderbolt key has vanished."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Someone misplaced the master‑key to my thunderbolts—again!"
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Checklist: panic, blame, search drawers, repeat."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I last saw it sprinting past me—might’ve been my reflection."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Interrogate everyone. With intimidation. And donuts."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Insurance clause 42: ‘Act of spouse’ surcharge."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Relax, brother; lock your clouds next time."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Maybe it eloped—keys fall for mysterious locks."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Lost items always appear after wine. Scientific fact."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "I can forge a new one—takes three days and unlimited overtime."
+            },
+            {
+                "speakerId": "Artemis",
+                "text": "Security footage shows… static. Suspicious static."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Hashtag #BoltQuest trending—crowdsource clues!"
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Keys don’t grow on trees, but maybe under snack wrappers."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Light a calm candle before accusing the furniture."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Sweep the corridor for clues.",
+                "nextDialogueBranchId": "C3B2"
+            },
+            {
+                "choiceText": "Interrogate suspects in IT closet.",
+                "nextDialogueBranchId": "C3B3"
+            }
+        ]
+    },
+    {
+        "branchId": "C3B2",
+        "location": "Office Corridor",
+        "phrases": [
+            {
+                "speakerId": "Hermes",
+                "text": "I posted ‘lost key’ flyers—added reward: eternal gratitude."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Make reward cash‑based; mortals love coins more than eternity."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Fluorescent bulbs flicker like guilty eyelids."
+            },
+            {
+                "speakerId": "Artemis",
+                "text": "Camera 3 saw nothing… or it saw everything and lied."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I’ll stand here menacingly until the key walks back."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Water leak trail ends near printer graveyard—ominous."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Footprint dusting ruins my heels—justice is harsh."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Suspicion list now longer than Zeus’s credit history."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "If it’s metal, I’ll sniff it out—forge‑sense tingling."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Clue or coincidence: grape‑scented stains by the vending machine."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Followers mapping key sightings in real‑time!"
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Check recycling bins—chaos loves cardboard."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "I’ll brew calm tea in the lobby, success magnet."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Follow water‑leak trail to IT closet.",
+                "nextDialogueBranchId": "C3B3"
+            },
+            {
+                "choiceText": "Inspect printer graveyard art installation.",
+                "nextDialogueBranchId": "C3B4"
+            }
+        ]
+    },
+    {
+        "branchId": "C3B3",
+        "location": "IT Closet",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Welcome to cable chaos. Touch nothing shiny—or anything dull."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Evidence board: half wires, half snack crumbs."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Key could’ve fallen into a server vent—like my sanity."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Check every machine; they all bow before lightning anyway."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Permission to threaten the routers?"
+            },
+            {
+                "speakerId": "Artemis",
+                "text": "Fingerprint powder turns keyboards winter‑white."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "This lighting is… unforgiving."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Found a grape—no key, but morale boost."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Moisture inside hardware—my alibi is water‑tight."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Budget note: static detectors cost less than divorce settlements."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Livestream lag—suspicious packet loss!"
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Cable ties resemble vines. Tempting to garden."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Disassemble servers for inspection.",
+                "nextDialogueBranchId": "C3B5"
+            },
+            {
+                "choiceText": "Retreat to security hub for footage review.",
+                "nextDialogueBranchId": "C3B6"
+            }
+        ]
+    },
+    {
+        "branchId": "C3B4",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "Poseidon",
+                "text": "Broken printers piled like sunken ships."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Every jammed tray—a monument to poor process."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Crush them to reveal hidden key—works for walnuts."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Try not to awaken the toner ghosts."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I hear rattling inside model ‘Regret‑Pro 300’."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Let me pry open its metallic heart."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Paper confetti raining—party memories return."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Toner stains: fashion crime, financial crime."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Black powder does nothing for my complexion."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Drama level: cinematic."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Recycling day? Might as well purge the evidence."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Open the rattling Regret‑Pro 300.",
+                "nextDialogueBranchId": "C3B5"
+            },
+            {
+                "choiceText": "Wheel entire heap to security for X‑ray.",
+                "nextDialogueBranchId": "C3B6"
+            }
+        ]
+    },
+    {
+        "branchId": "C3B5",
+        "location": "IT Closet",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Success! Found… a paperclip shrine, not a key."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Paperclip worship: unprecedented, yet believable here."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "A paperclip cannot unlock thunder—but respect for ambition."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I’ll add ‘cult prevention’ to courier duties."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Let me interrogate the printers again—louder."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Paper shrine pairs well with sacramental wine."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Bedazzle the shrine—maybe the key appears out of jealousy."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Metal still smells fresh—not saltwater‑tainted, so I’m innocent."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Audit flag: cult activity increases overtime claims."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "I harvest copier scraps for mosaic art."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Follow cult clue to corridor locker 7.",
+                "nextDialogueBranchId": "C3B7"
+            },
+            {
+                "choiceText": "Abandon printers and scour security tapes.",
+                "nextDialogueBranchId": "C3B6"
+            }
+        ]
+    },
+    {
+        "branchId": "C3B6",
+        "location": "Security Storeroom",
+        "phrases": [
+            {
+                "speakerId": "Artemis",
+                "text": "Four hours of footage. No popcorn, just crime."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Fast‑forward: Hermes delivering, Dionysus celebrating, Zeus napping."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "In my defense, I deliver while sleeping."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Zoom on that blurry shape—looks key‑ish!"
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Enhance! (I saw them do this in movies.)"
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Pixel‑by‑pixel; patience forged here."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Timestamp coincides with karaoke disaster. Figures."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "I was busy blending beats and beverages—alibi secured."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Freeze‑frame glimmers—my highlighter? Or the key?"
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "That smudge drips water—traitor puddle!"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Track puddle trail back to rooftop.",
+                "nextDialogueBranchId": "C3B8"
+            },
+            {
+                "choiceText": "Confront karaoke machine as suspect.",
+                "nextDialogueBranchId": "C3B9"
+            }
+        ]
+    },
+    {
+        "branchId": "C3B7",
+        "location": "Office Corridor",
+        "phrases": [
+            {
+                "speakerId": "Hermes",
+                "text": "Locker unlocked—ironic."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Smells like toner and betrayal."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Inside: confetti, grape stems, and a note: ‘Find me where thunder rests’."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Thunder rests nowhere—it roams with me!"
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Note written on wine‑label. Respect."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Grapes: the trail thickens and sweetens."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "This scavenger hunt costs more than a locksmith."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Paper edges singed slightly—someone loves fire."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Or lightning."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "I’ll compost the stems when we’re done."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Head to rooftop (thunder’s hangout).",
+                "nextDialogueBranchId": "C3B8"
+            },
+            {
+                "choiceText": "Interrogate Dionysus about grape evidence.",
+                "nextDialogueBranchId": "C3B9"
+            }
+        ]
+    },
+    {
+        "branchId": "C3B8",
+        "location": "Rooftop Terrace",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "Storm clouds gather—my natural décor."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Lightning rod humming—maybe hiding loot?"
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I’ll wrestle the clouds if needed."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Drone delivery incoming—duck!"
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "I never drone; I float gracefully."
+            },
+            {
+                "speakerId": "Artemis",
+                "text": "Thermal cams detect metal near ventilation shaft."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Vent screws rusted—my specialty."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Moist breeze good for rust removal."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Wind‑tousled hero hair—bless this quest."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Find key before lightning finds us."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Livestream title: ‘Key to the Skies’."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Vent outflow wilts my rooftop herbs."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Open the ventilation shaft.",
+                "nextDialogueBranchId": "C3B10"
+            },
+            {
+                "choiceText": "Check the lightning rod base instead.",
+                "nextDialogueBranchId": "C3B9"
+            }
+        ]
+    },
+    {
+        "branchId": "C3B9",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "Dionysus",
+                "text": "Karaoke never lies—only slurs its truths."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Volume knob stuck at 11—a clue or a threat."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I’ll interrogate the speakers with feedback screech."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Lightning graphics—galling reminder of my loss."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I squeezed behind the subwoofer—found spilled wine, not key."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "I recall slipping something shiny into the mic stand decor."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Mic stand hollow; open sesame."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Smells of sea‑salt chips—culprit snacks."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Clean‑up budget bigger than marketing now."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "I’ll sing ‘Steal My Thunder’ for inspiration."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Dismantle mic stand immediately.",
+                "nextDialogueBranchId": "C3B10"
+            },
+            {
+                "choiceText": "Return to rooftop with new theory.",
+                "nextDialogueBranchId": "C3B8"
+            }
+        ]
+    },
+    {
+        "branchId": "C3B10",
+        "location": "Rooftop Terrace",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Vent panel off—moment of truth and dust."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Shine flashlight—see glint?"
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I’ll wriggle in—been training for tight deadlines AND ducts."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Retrieve my key and a raise, courier."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "If monsters live here, call me."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Echo sounds musical—good acoustics for rooftop concerts."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Shaft damp; my element."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Dust ruins outfit—write that in expense claim."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Found it? Found trouble at least?"
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Victory! Key secured, plus seven mystery paperclips."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "All is right—unless key is counterfeit?"
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Testing authentication…sparks confirm authenticity."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Celebrate with stormy fireworks (end chapter).",
+                "nextDialogueBranchId": "C3End"
+            },
+            {
+                "choiceText": "Double‑check printer shrine for duplicates.",
+                "nextDialogueBranchId": "C3B5"
+            }
+        ]
+    },
+    {
+        "branchId": "C3End",
+        "location": "Rooftop Terrace",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "Thunderbolt key restored! The skyline trembles approvingly."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "And the total cost of this investigation? Let’s never calculate it."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier leaderboard: key retrieval > pizza delivery. New badge earned."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Add storm‑damage waiver to the marriage contract, dear."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Victory roar echoing—until caffeine crash hits."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Speaking of crashes, coffee stock in kitchen is nil."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Wine is a breakfast option, right?"
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Sea‑salt latte shortages? Unacceptable."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "No coffee means no compliments—war is imminent."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Coffee machine red‑lights flashing like a bad romance."
+            },
+            {
+                "speakerId": "Artemis",
+                "text": "Security alert: barista machine sabotage likely."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Hashtag #BeanThereSmoteThat ready to trend."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Rush to the kitchen—defend the coffee supply.",
+                "nextDialogueBranchId": "C4B1"
+            },
+            {
+                "choiceText": "Summon an emergency caffeine summit first.",
+                "nextDialogueBranchId": "C4B2"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B1",
+        "location": "Kitchen",
+        "phrases": [
+            {
+                "speakerId": "Demeter",
+                "text": "Empty coffee urns—bleak as winter fields."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Who dares rob Olympus of its ambrosia‑brew?"
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Diagnostics say: grinder jammed by foreign object."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Let me dissect the device—scalpel, or hammer?"
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I’ll guard the sugar packets; morale depends on sweetness."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I can sprint to the corner café—if mortals survive the queue."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Latte art withdrawal is ruining my glow."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Budget forecast: implosion without caffeine."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "I’ll spike the hot water—instant enthusiasm!"
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Steam hisses like angry tide—ominous."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Brewing calm herbal tea as fallback—my tiny rebellion."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Live‑poll: team cold‑brew or civil war?"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Let Hephaestus open the machine.",
+                "nextDialogueBranchId": "C4B3"
+            },
+            {
+                "choiceText": "Send Hermes for mortal coffee backup.",
+                "nextDialogueBranchId": "C4B4"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B2",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "Order! This emergency java council is now in session."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Agenda: identify saboteur, restore supply, avoid lawsuits."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Motion to declare open hostilities on Sleeplessness."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Seconded—pending cost analysis."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Diagnostic slides show grinder jammed by… glitter?"
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Glitter elevates everything—including chaos."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Sabotage motive: sparkle over substance."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Glitter coffee—bold new flavour?"
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Couriered vacuum pump en‑route for cleanup."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Glitter contaminates oat milk—environmental crime."
+            },
+            {
+                "speakerId": "Artemis",
+                "text": "Recommend forensic sweep of break‑room lockers."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Flashy sabotage gets views—respect."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Deploy Artemis to investigate lockers.",
+                "nextDialogueBranchId": "C4B5"
+            },
+            {
+                "choiceText": "Demand Aphrodite lead cleanup—her mess.",
+                "nextDialogueBranchId": "C4B3"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B3",
+        "location": "Kitchen",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Opening grinder… glitter burst! My beard sparkles now."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Sabotage confirmed. Method: cosmetic terrorism."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "I plead fabulous."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Sparkle raises lightning conductivity—danger bonus."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Vacuum pump clogged—glitter’s revenge."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Invoice for glitter cleanup rivals marketing spend."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Maybe we need tidal rinse cycle."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Let’s siege the arts‑and‑crafts closet."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Glitter wine? I’ll prototype."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Glitter on pastries: hard nope."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "New fragrance: ‘Desperation & Sequins’."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Audience votes 52 % for confetti latte comeback."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Strip machine, rebuild sans glitter.",
+                "nextDialogueBranchId": "C4B6"
+            },
+            {
+                "choiceText": "Replace with Poseidon’s tidal‑rinse prototype.",
+                "nextDialogueBranchId": "C4B7"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B4",
+        "location": "Office Corridor",
+        "phrases": [
+            {
+                "speakerId": "Hermes",
+                "text": "Running caffeine smuggling op—codename: JavaDash."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Escort detail: me and my intimidation glare."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "ETA to café: 3 min; risk of spill: catastrophic."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Take my corporate card—thunder‑credit unlimited."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Bring sea‑salt foam or don’t return."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "I texted barista: draw my likeness in crema."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Limit order to prevent deficit spending."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Insulated jug welded for zero heat loss."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Add Irish option. Very Irish."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Grab oat‑milk—save the planet while saving ourselves."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "I’ll prep mugs—cleanliness amid chaos."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Live‑tracking courier dash for the fans."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Stay on mission & return with coffee.",
+                "nextDialogueBranchId": "C4B6"
+            },
+            {
+                "choiceText": "Detour to arts‑and‑crafts closet (investigate glitter).",
+                "nextDialogueBranchId": "C4B5"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B5",
+        "location": "Security Storeroom",
+        "phrases": [
+            {
+                "speakerId": "Artemis",
+                "text": "Locker raid report: glitter bombs stockpiled like secrets."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Saboteur modus operandi: sparkle & sabotage."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Glitter is a universal language—of chaos."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Enough glitter talk—where is my coffee?"
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Confiscated confetti cannon may unclog grinder via sheer blast."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Cannon? I call trigger rights."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier helmets now mandatory."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Water cannon safer; less sparkle."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Insurance forms quiver in fear."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Glitter cannon + wine fountain = festival."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Cannon noise wilts micro‑greens."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Followers love explosive content."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Fire glitter cannon at jammed machine.",
+                "nextDialogueBranchId": "C4B7"
+            },
+            {
+                "choiceText": "Seal glitter & refocus on coffee fetch.",
+                "nextDialogueBranchId": "C4B6"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B6",
+        "location": "Kitchen",
+        "phrases": [
+            {
+                "speakerId": "Demeter",
+                "text": "Smuggled brews arrive—steam of salvation!"
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Pour first cup for morale—second for budget review."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Caffeine infusion boosts IQ by illusion."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Re‑assembling grinder: removed 97 % glitter."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Security perimeter of mugs established."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "JavaDash success rate: 110 %—tip welcome."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Latte art portrait flawless—even under stress."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Sea‑salt foam met my tide‑high standards."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Expense ledger sighs in relief."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Added Irish option per agreement—cheers!"
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Mugs warmed—domestic victory."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Photo op: ‘Peace talks with pastries’."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Launch peace ceremony on rooftop.",
+                "nextDialogueBranchId": "C4B8"
+            },
+            {
+                "choiceText": "Announce coffee rationing to avoid relapse.",
+                "nextDialogueBranchId": "C4B9"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B7",
+        "location": "Kitchen",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Glitter cannon deployed—jam cleared via brute sparkle."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Unorthodox, yet effective. Probability of glitter‑latte outbreak: 100 %."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Sprinkles of doom coat everything edible."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "You’re welcome. A feast for the eyes—literally."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Coffee pours—but sparkles insanely."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Sea foam plus glitter equals mermaid mocha."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Shiny caffeine! Battle trophy beverage."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier gloves now shimmer permanently."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Cleaning bill will outshine the stars."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Festive enough—let’s call it victory."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Peace forged in sparkle—questionable, but warm."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "#GlitterBrew trending faster than #KeyQuest."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Adopt glitter‑brew as new brand signature.",
+                "nextDialogueBranchId": "C4B8"
+            },
+            {
+                "choiceText": "Purge glitter, establish strict brew protocols.",
+                "nextDialogueBranchId": "C4B9"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B8",
+        "location": "Rooftop Terrace",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "Raise cups—sparkling or sober—to the dawn of bean peace!"
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Crisis solved via compromise—and mild glitter inhalation."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Steam blends with sea breeze—pleasant."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Machine runs smoothly, if blindingly."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I declare cease‑brew—until next shortage."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Delivery selfies with horizon backdrop complete."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Sunset highlights my latte‑sparkle—perfection."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "New policy: glitter surcharge."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Irish foam kisses dawn—poetry in caffeine."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Share pastries equally—fertile workplace to follow."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Warmth restored, hearth happy."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Thumbnail: ‘Olympus achieves bean nirvana’."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Draft official glitter‑brew SOP.",
+                "nextDialogueBranchId": "C4B10"
+            },
+            {
+                "choiceText": "Toast quietly & end coffee war arc.",
+                "nextDialogueBranchId": "C4B10"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B9",
+        "location": "Security Storeroom",
+        "phrases": [
+            {
+                "speakerId": "Artemis",
+                "text": "Ration cards printed—one mug per god per hour."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Mathematical: ensures productivity, reduces riots."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Ration defiance imminent—prepare enforcement squad."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Installed mug‑scanner to thwart double‑dippers."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Even I queue? Outrageous, yet symbolic."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "I’ll trade sea foam for extra stamps."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Flirt credits not accepted? Unfair."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Counterfeiting ration cards… definitely not me."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Audit compliance begins immediately."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "I’ll open parallel black‑brew market."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "At least oat‑milk unlimited—my small win."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Poll: coffee communism vs. latte libertarianism."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Adopt ration system officially.",
+                "nextDialogueBranchId": "C4B10"
+            },
+            {
+                "choiceText": "Overthrow rationing & embrace glitter‑brew.",
+                "nextDialogueBranchId": "C4B8"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B10",
+        "location": "Kitchen",
+        "phrases": [
+            {
+                "speakerId": "Demeter",
+                "text": "Pastries served, mugs clink—harvest of harmony."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Let this brew truce stand—for at least three business days."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Documenting lessons learned: never underestimate glitter."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Machine purrs like a kitten full of caffeine."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Ledger balanced—barely, but beautifully."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Peace tastes suspiciously like dark roast."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier bag empty—mission accomplished."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Latte art hearts everywhere—corporate affection restored."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Foam peaks resemble tidal waves—satisfying."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "A celebratory splash of… culture."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Warm hearth, warm hearts, warm mugs."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Caption: ‘Olympus finds its grind.’ End scene."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Roll credits on glitter‑brew saga (end).",
+                "nextDialogueBranchId": "End"
+            },
+            {
+                "choiceText": "Secretly plan next corporate misadventure.",
+                "nextDialogueBranchId": "TeaserB1"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B11",
+        "location": "Rooftop Terrace",
+        "phrases": [
+            {
+                "speakerId": "Apollo",
+                "text": "Golden‑hour coffee‑shoot—latte foam glows like prophecy."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Brand imagery: storm cloud latte, lightning biscotti."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "ROI on sunlight: high. ROI on glitter: catastrophic, yet viral."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I balanced trays on my winged shoes—don’t sneeze."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Wind‑machine, please—my curls demand drama."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Budget note: wind machine is literally a fan."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Foam art tidal wave—perfect. Now 50 more cups."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I can catapult cups into formation—no? Cowards."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Added espresso martini to props—method acting."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Tripod welded for zero wobble; influencers rejoice."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Herb sprig garnish adds organic authenticity."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Mind the edge—hospital bills break immersion."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Push for bigger pyrotechnic finale.",
+                "nextDialogueBranchId": "C4B12"
+            },
+            {
+                "choiceText": "Wrap shoot early and focus on budget review.",
+                "nextDialogueBranchId": "C4B13"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B12",
+        "location": "Rooftop Terrace",
+        "phrases": [
+            {
+                "speakerId": "Ares",
+                "text": "Fireworks rigged—coffee cups as mortar trackers."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Thunder accompaniment courtesy of yours truly."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Probability map shows 80 % chance of toasted latte."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "I’ll deploy rain curtain for dramatic sizzle."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Firework sparkle competes with my highlighter—challenge accepted."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier helmet now doubles as shrapnel shield."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Insurance agent crying on hold—progress!"
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Fireworks, wine, and coffee—party trifecta complete."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Fuse length questionable—art demands risk."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "My rooftop basil might become herb flambé."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Fire suppression bucket: decorative or functional? Both."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Light the fuse—spectacle over safety.",
+                "nextDialogueBranchId": "C4B14"
+            },
+            {
+                "choiceText": "Abort launch—funnel budget to safer promo.",
+                "nextDialogueBranchId": "C4B13"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B13",
+        "location": "Zeus’ Office",
+        "phrases": [
+            {
+                "speakerId": "Hera",
+                "text": "Stacks of expense reports—smell like roasted beans and regret."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Revenues rise faster than lightning—if we ignore costs."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Data chart: caffeine intake vs productivity—exponential until tremors start."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier overtime line resembles Mount Olympus—pointy."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Brand engagement curve shaped like a heart—balanced."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Cost of foam imported sea‑salt—wave‑lengthed."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Budget war room lacks actual war décor."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Line item: morale wine. Justified."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Maintenance cost: 97 % glitter extraction."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Snack subsidy saved lives—and waistlines complained."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Warm ambience line—priceless, literally zero dollars."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Views convert to ads; ads convert to cash; cash converts to fireworks budget."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Approve modest promo budget (no fireworks).",
+                "nextDialogueBranchId": "C4B15"
+            },
+            {
+                "choiceText": "Green‑light explosive rooftop spectacle.",
+                "nextDialogueBranchId": "C4B14"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B14",
+        "location": "Rooftop Terrace",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "Sky ignites—branding visible from orbit!"
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Victory boom echoes across city—marketing by shockwave."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Statistics: crowd awe 95 %, property damage TBD."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Rain fizzles sparks—good partnership."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "I sparkle brighter than the pyros—balance restored."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Merch sales spiking as fast as I run."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Ledger catches fire—figuratively… for now."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Champagne cork reaches stratosphere—new record."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Fuses burnt clean—quality craftsmanship."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Herbs roasted but aromatic—free rooftop seasoning."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Fire buckets now foot baths—when in Rome Olympus."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Follower count explodes like the sky—algorithm worships me."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Declare coffee war officially won—roll credits.",
+                "nextDialogueBranchId": "End"
+            },
+            {
+                "choiceText": "Channel fireworks buzz into new product teaser.",
+                "nextDialogueBranchId": "C4B15"
+            }
+        ]
+    },
+    {
+        "branchId": "C4B15",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "Dionysus",
+                "text": "Leftover espresso martinis & glitter foam—breakfast of champions."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Board meeting in two hours—perfect hangover window."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "I drafted policy: ‘No pyrotechnics before 4 a.m.’—retroactive tomorrow."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier drones returning with donuts—airspace congested."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "I designed limited‑edition sparkler‑latte gift cards."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Sea‑salt caramel drizzle wave pattern sells out."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "War trophies: spent fireworks shells, now mug holders."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "3‑D‑printed commemorative mug with built‑in sparkler slot."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Profit margin finally above scandal margin—hallelujah."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Pastry tray sprouting—yeast gods pleased."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Warm glow in hearts and fluorescent ceiling alike."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Closing shot: sunrise through steam and sequins."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Present triumphant results to board",
+                "nextDialogueBranchId": "End"
+            },
+            {
+                "choiceText": "Hint at next corporate saga",
+                "nextDialogueBranchId": "TeaserB1"
+            }
+        ]
+    },
+    {
+        "branchId": "End",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "So ends the saga of beans, bolts, and bling."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Wisdom earned: coffee fuels strategy, glitter fuels insurance."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Package delivered: happy ending with tracking number."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Ledger closed—until the sequel opens it again."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Waves of applause accepted."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Audience hearts captured—no returns."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Peace tastes odd, but I’ll allow it—for now."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "After‑party invites sent! RSVP: eternally yes."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Replay from the beginning.",
+                "nextDialogueBranchId": "C1B1"
+            },
+            {
+                "choiceText": "Peek at next‑season teaser.",
+                "nextDialogueBranchId": "TeaserB1"
+            }
+        ]
+    },
+    {
+        "branchId": "TeaserB1",
+        "location": "Office Corridor",
+        "phrases": [
+            {
+                "speakerId": "NARRATOR",
+                "text": "Post‑credit stinger: mysterious package addressed ‘To Olympus, From HR—Underworld Division’."
+            },
+            {
+                "speakerId": "Hades",
+                "text": "Did you enjoy your glitter? Wait until you taste bureaucracy."
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "Flowers accompany the paperwork—beauty softens doom."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Underworld audit?! I just balanced the books!"
+            },
+            {
+                "speakerId": "Athena",
+                "text": "New saga keyword: ‘compliance’—terrifying."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier route to Underworld… tricky but scenic."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Underworld chic? I can make it work."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Finally, a worthy opponent: eternal paperwork."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Field trip! Pack the party torches."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Budget meeting with Hades—what could go wrong?"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Accept Hades’ audit challenge",
+                "nextDialogueBranchId": "UnderworldB1"
+            },
+            {
+                "choiceText": "Politely decline and roll full credits.",
+                "nextDialogueBranchId": "End"
+            }
+        ]
+    },
+    {
+        "branchId": "UnderworldB1",
+        "location": "Hades Inc",
+        "phrases": [
+            {
+                "speakerId": "Hades",
+                "text": "Welcome to customer service—eternal hold music in D‑minor."
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "We put the ‘fun’ in ‘fundamental compliance reviews’."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "I arrive bearing lightning and lightly‑cooked expense reports."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Checklist: sarcasm shield, budget balm, caffeine reserves."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier scanners beep—weapons? No, just glitter residue."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Underworld décor: bleak. Needs more battle banners."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Low lighting flatters everyone—evil but fabulous."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Humidity here rivals my oceans—respect."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Wine turns to vinegar instantly—tough crowd."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Let’s audit the auditors before they audit us."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Elevator ran on actual chains—industrial chic."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "No plants survive; I feel personally attacked."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Hearthless lobby—my poor soul shivers."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Proceed to Hades’s conference chamber.",
+                "nextDialogueBranchId": "UnderworldB2"
+            },
+            {
+                "choiceText": "Stall in lobby to gather gossip.",
+                "nextDialogueBranchId": "UnderworldB3"
+            }
+        ]
+    },
+    {
+        "branchId": "UnderworldB2",
+        "location": "Hades Inc",
+        "phrases": [
+            {
+                "speakerId": "Hades",
+                "text": "Conference table carved from rejected invoices—sentimental."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Impressive. My conference table is just wood… and regret."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "PowerPoint theme: ‘Abandon all margins ye who enter’."
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "Refreshments: pomegranate espresso or void‑water?"
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Void‑water clears pores, allegedly."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Projector password: ‘Cerberus123’. Security genius."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Agenda item 1: glitter contamination liabilities."
+            },
+            {
+                "speakerId": "Hades",
+                "text": "I offer eternal payment plan—interest compounds after death."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Do you accept seashells? Asking for a friend."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Void‑water pairs poorly with party mix."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Can interest be negotiated with arm‑wrestling?"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Negotiate payment in thunderbolt futures.",
+                "nextDialogueBranchId": "UnderworldB4"
+            },
+            {
+                "choiceText": "Offer exposure on Apollo’s livestream instead.",
+                "nextDialogueBranchId": "UnderworldB5"
+            }
+        ]
+    },
+    {
+        "branchId": "UnderworldB3",
+        "location": "Hades Inc Lobby",
+        "phrases": [
+            {
+                "speakerId": "Hermes",
+                "text": "Receptionist is a wraith—great at multitasking, bad at small talk."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Ghost gossip: Hades secretly hoards latte foam."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Clipboard on desk lists ‘Soul Audits, Bean Inventory, Karaoke Permit’."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Underworld bean supply robust—jealous."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "If they have coffee, peace talks possible."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Lobby statue of Cerberus doubles as lost‑and‑found."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Found: ancient corkscrew—planning ahead."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Examining elevator gears—could upgrade elevator music to heavy metal."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Potted asphodel—not my vibe."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Sneak to bean storage for leverage.",
+                "nextDialogueBranchId": "UnderworldB6"
+            },
+            {
+                "choiceText": "Rejoin main meeting before noticed.",
+                "nextDialogueBranchId": "UnderworldB2"
+            }
+        ]
+    },
+    {
+        "branchId": "UnderworldB4",
+        "location": "Hades Inc Negotiation Nook",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "Thunderbolt futures: shockingly stable investment."
+            },
+            {
+                "speakerId": "Hades",
+                "text": "Volatility literally strikes. I’m intrigued."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Projected returns: electrifying."
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "Add flower clause: blooms on profit spikes."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Branding idea: ‘Shocking Savings’—calls to me."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Broker fee? Standard courier mileage plus danger pay."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Audit note: avoid pun‑based accounting."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Seal deal with thunder handshake.",
+                "nextDialogueBranchId": "UnderworldB7"
+            },
+            {
+                "choiceText": "Second‑guess and revert to cash bribe.",
+                "nextDialogueBranchId": "UnderworldB8"
+            }
+        ]
+    },
+    {
+        "branchId": "UnderworldB5",
+        "location": "Hades Inc Negotiation Nook",
+        "phrases": [
+            {
+                "speakerId": "Apollo",
+                "text": "Going live: #AuditAfterlife behind‑the‑scenes."
+            },
+            {
+                "speakerId": "Hades",
+                "text": "Exposure? I prefer darkness, but views pay bills."
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "Add pastel filter—softens hellscape."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Spin narrative: synergy between realms."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Disclaimer crawl: ‘Results may vary, eternal consequences possible.’"
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Chat tipping drachma—profit margin rising."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Lighting from brimstone highlights my cheekbones."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Commit to influencer‑audit partnership.",
+                "nextDialogueBranchId": "UnderworldB7"
+            },
+            {
+                "choiceText": "Stream sabotage fails—cut feed, negotiate offline.",
+                "nextDialogueBranchId": "UnderworldB8"
+            }
+        ]
+    },
+    {
+        "branchId": "UnderworldB6",
+        "location": "Hades Inc Bean Vault",
+        "phrases": [
+            {
+                "speakerId": "Poseidon",
+                "text": "Rows of dark‑roast—smells like midnight tides."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Beans stored in skull canisters—grim yet airtight."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I can swap these with decaf—chaos insurance."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Raid and pillage? Checklist ready."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Skull‑latte selfies would slay (literally)."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Strategic leverage acquired; let’s negotiate harder."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Confiscate premium roast as collateral.",
+                "nextDialogueBranchId": "UnderworldB8"
+            },
+            {
+                "choiceText": "Return vault intact—build trust.",
+                "nextDialogueBranchId": "UnderworldB2"
+            }
+        ]
+    },
+    {
+        "branchId": "UnderworldB7",
+        "location": "Hades Inc Negotiation Nook",
+        "phrases": [
+            {
+                "speakerId": "Hades",
+                "text": "Contract inked in stygian gel—dries eventually."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Thunderbolt collateral stored under triple locks."
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "Bonus clause: seasonal flower deliveries to lobby."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Compliance matrix satisfied; risk downgraded from catastrophic to amusing."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier drone off with signed scroll—track number: 666."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Photo‑op sparkle! Souls glow (with dread)."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Celebrate deal with joint latte summit.",
+                "nextDialogueBranchId": "UnderworldB9"
+            },
+            {
+                "choiceText": "Exit swiftly before clauses mutate.",
+                "nextDialogueBranchId": "C4B10"
+            }
+        ]
+    },
+    {
+        "branchId": "UnderworldB8",
+        "location": "Hades Inc Negotiation Nook",
+        "phrases": [
+            {
+                "speakerId": "Hades",
+                "text": "Bribe attempts noted; interest doubles."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Ah, classic escalation. My specialty."
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "We suggest conflict‑resolution cupcakes—arsenic‑free today."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Strategic retreat advisable."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Exit routes: three, all guarded by paperwork."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Paperwork can be punched—they fold."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "I’ll distract the guardians with charm and glitter."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Stage cupcake‑mediated truce.",
+                "nextDialogueBranchId": "UnderworldB9"
+            },
+            {
+                "choiceText": "Flee with bean loot and hope for the best.",
+                "nextDialogueBranchId": "C4B10"
+            }
+        ]
+    },
+    {
+        "branchId": "UnderworldB9",
+        "location": "Hades Inc Negotiation Nook",
+        "phrases": [
+            {
+                "speakerId": "Persephone",
+                "text": "Skull mugs filled—cheers to terrifying transparency!"
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "May this brew bridge worlds—and ledgers."
+            },
+            {
+                "speakerId": "Hades",
+                "text": "Flavor profile: rich, dark, slightly ominous."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Recording minutes: ‘Outcome—pleasantly dreadful’."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier palate cleansed, ready for another 10 000 steps of paperwork."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Latte art: tiny three‑headed dog. Adorable menace."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Subtle hint of brimstone pairs well with sea‑salt foam."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Propose annual Olympus‑Underworld coffee exchange.",
+                "nextDialogueBranchId": "UnderworldB10"
+            },
+            {
+                "choiceText": "End meeting and ascend triumphantly.",
+                "nextDialogueBranchId": "C4B10"
+            }
+        ]
+    },
+    {
+        "branchId": "UnderworldB10",
+        "location": "Hades Inc Exit Portal",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "Portal ready—mind the existential vertigo."
+            },
+            {
+                "speakerId": "Hades",
+                "text": "Send my regards to your auditors—mine will miss you."
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "Remember: paperwork is eternal; enjoy that thought."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Mutual compliance pact signed—miracles happen."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Souvenir pens forged from stygian steel—heavy yet stylish."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Underworld glow‑up complete; next stop: surface spa."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I rate this quest: 7/10 explosions, 10/10 dramatic lighting."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Profit safe, dignity bruised—status quo."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "After‑party in both realms—logistics nightmare, but worth it."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Asphodel seeds pocketed—will brighten Olympus planters."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Homebound—to warmth, light, and hopefully decaf."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Roll full credits with Underworld cameo.",
+                "nextDialogueBranchId": "End"
+            },
+            {
+                "choiceText": "Cue teaser for next absurd adventure.",
+                "nextDialogueBranchId": "TeaserB2"
+            }
+        ]
+    },
+    {
+        "branchId": "TeaserB2",
+        "location": "Office Open‑Space",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "An ominous memo just printed itself: ‘Annual Performance Reviews—Today.’"
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Impossible. I scheduled those for ‘Eventually’."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "The memo bears Underworld letterhead. Hades left homework."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Self‑printing memos? Possessed copier seeking revenge."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Performance review? I perform war daily—A+."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "I perform charisma—grade me on sparkles."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Ocean KPI: still wet. Exceeds expectations."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "My metrics: parties thrown, hangovers survived."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "I’ll reprogram printer to output ‘Meets Expectations’ for all."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "I’ll bake evaluation cookies shaped like checkmarks."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Let’s remember warmth and honesty—panic later."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Live‑poll: should gods fear HR? 92 % yes."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Sprint to IT closet to hack the system.",
+                "nextDialogueBranchId": "TeaserB3"
+            },
+            {
+                "choiceText": "Gather in conference room for emergency prep.",
+                "nextDialogueBranchId": "TeaserB4"
+            }
+        ]
+    },
+    {
+        "branchId": "TeaserB3",
+        "location": "IT Closet",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Firewall forged from pure sarcasm—unbreachable."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Target: HR database named ‘Elysian_Appraisals’."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Keyboard clicks louder than thunder—stealth optional."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Change my rating to ‘Electrifying Leader’—bonus zero humility."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Add sparkle emoji to mine—branding matters."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Set my improvement goal to ‘Install office aquarium’."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Insert GIF of me flexing into every comment box."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Ethics aside, expedite."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Replace ‘weakness’ field with ‘None, cheers!’"
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "List ‘snack morale’ as core competency."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "I’ll stay guard—servers hum better with tea."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Commit unauthorized edits.",
+                "nextDialogueBranchId": "TeaserB5"
+            },
+            {
+                "choiceText": "Abort hack and face reviews honestly.",
+                "nextDialogueBranchId": "TeaserB4"
+            }
+        ]
+    },
+    {
+        "branchId": "TeaserB4",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "Athena",
+                "text": "Emergency prep kit: buzzwords, pivot charts, humble‑brag bingo."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Remember: mention ‘synergy’ thrice—promotion guaranteed."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Eye contact ratio must exceed 60 % but stay under laser‑stare."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Practise power pose—camera loves a confident deity."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Smile metrics: bright, not blinding."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Bring props: mini‑trident points at charts dramatically."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Add war drums soundtrack; subtle but assertive."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Complimentary espresso shots—liquid courage."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Slide deck animated with sparks—literal ones."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Graph of snack satisfaction over fiscal years."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Warm lighting set—no interrogation vibes."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Role‑play mock review with Zeus as HR.",
+                "nextDialogueBranchId": "TeaserB6"
+            },
+            {
+                "choiceText": "Break for espresso shots first.",
+                "nextDialogueBranchId": "TeaserB7"
+            }
+        ]
+    },
+    {
+        "branchId": "TeaserB5",
+        "location": "Office Open‑Space",
+        "phrases": [
+            {
+                "speakerId": "Hermes",
+                "text": "Hack uploaded—printer spitting ‘Outstanding!’ certificates."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Look, my certificate smells like roses."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Mine drips seawater ink—nice touch."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "All hail the flawless workforce! HR can retire."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Wait—database alarms flashing ‘Integrity Breach’."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Oops, forgot the audit tripwire—hello, Underworld hotline."
+            },
+            {
+                "speakerId": "Hades",
+                "text": "Voice on speaker: ‘Nice try, amateurs. Penalties pending.’"
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "Would you like appeal paperwork in lavender or abyss‑black?"
+            },
+            {
+                "speakerId": "Hera",
+                "text": "We need a Plan B before Plan A combusts."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Plan B: barricade the office with coffee crates."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Initiate last‑minute training montage.",
+                "nextDialogueBranchId": "TeaserB6"
+            },
+            {
+                "choiceText": "Hide in rooftop herb garden and hope.",
+                "nextDialogueBranchId": "TeaserB8"
+            }
+        ]
+    },
+    {
+        "branchId": "TeaserB6",
+        "location": "Dionysus’ Territory",
+        "phrases": [
+            {
+                "speakerId": "Dionysus",
+                "text": "Cue motivational karaoke: ‘Eye of the Cyclops’!"
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Each lyric maps to KPI—sing with purpose."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Thunderous backing vocals—impress or deafen."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Add choreographed hair flips—synergy visualized."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I’ll bench‑press the microphone stand mid‑chorus."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Ocean wave dance moves: splashy & data‑driven."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Lyrics scrolling faster—cardio and rehearsal combined."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Spotlight overheating—risk accepted."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Confetti of oat flakes—eco‑friendly."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "I’ll pass hot tea to soothe scorched egos."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Streaming rehearsal: views climbing; HR watching too."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Invite HR to join rehearsal (bribe).",
+                "nextDialogueBranchId": "TeaserB9"
+            },
+            {
+                "choiceText": "Lock doors—perfect practice makes perfect.",
+                "nextDialogueBranchId": "TeaserB7"
+            }
+        ]
+    },
+    {
+        "branchId": "TeaserB7",
+        "location": "Kitchen",
+        "phrases": [
+            {
+                "speakerId": "Demeter",
+                "text": "Espresso shots lined like soldiers."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Down the hatch—performance fuel engaged."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Brain synapses firing—hear the sizzle?"
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I’m vibrating at motivational frequency."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Tidal wave of caffeine—surf’s up."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Ledger shakes—either caffeine or upcoming fines."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Latte art hearts become exclamation points."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I can finally type 400 WPM—mostly vowels."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Grinder humming victory tunes."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Added espresso to wine—don’t judge genius."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Deep breaths—don’t ignite."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "March to HR wing energized.",
+                "nextDialogueBranchId": "TeaserB9"
+            },
+            {
+                "choiceText": "Channel energy into one last hack patch.",
+                "nextDialogueBranchId": "TeaserB3"
+            }
+        ]
+    },
+    {
+        "branchId": "TeaserB8",
+        "location": "Rooftop Terrace",
+        "phrases": [
+            {
+                "speakerId": "Demeter",
+                "text": "Herbs whisper: ‘You can’t hide from HR’."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Cloud camouflage engaged—totally inconspicuous."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Stealth rating: negative. HR drones approaching."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Drones armed with clipboards—terrifying."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Sprinklers might short‑circuit drones."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Or I could throw them."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "I’ll wave—maybe charm overrides protocol."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Protocol immune to flirtation—they’re drones."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Override frequency 404—drones offline."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Herb‑infused cocktails awaiting victory."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Tea leaves predict… paperwork."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Trigger sprinklers to disable drones.",
+                "nextDialogueBranchId": "TeaserB10"
+            },
+            {
+                "choiceText": "Surrender peacefully to HR drones.",
+                "nextDialogueBranchId": "TeaserB9"
+            }
+        ]
+    },
+    {
+        "branchId": "TeaserB9",
+        "location": "Security Storeroom",
+        "phrases": [
+            {
+                "speakerId": "Artemis",
+                "text": "I’ve commandeered HR cubicle—clipboards now arrows."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Negotiation stance: admit minor flaws, flaunt major wins."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "I’ll open with ‘I empowered synergy’—classic."
+            },
+            {
+                "speakerId": "Hades",
+                "text": "Appears via holo‑screen: ‘Begin testimonies. No theatrics.’"
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "I brought flower‑scented pens—sweeten signatures."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Cue dazzling smile—unauthorized charisma."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Slides auto‑advance too fast—oops."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Water cooler floods—dramatic tension."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Flex subtly—desk creaks."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "I’ll toast to transparency—sip discreetly."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Focus group (HR) looks… unconvinced."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Deploy charisma overload (Aphrodite + Apollo duet).",
+                "nextDialogueBranchId": "TeaserB11"
+            },
+            {
+                "choiceText": "Submit honest self‑reviews, accept fate.",
+                "nextDialogueBranchId": "TeaserB10"
+            }
+        ]
+    },
+    {
+        "branchId": "TeaserB10",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "Hades",
+                "text": "Verdict: conditional pass. Mandatory compliance workshop scheduled."
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "Workshop theme: ‘Glitter‑Free Growth’."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Conditional pass? Better than eternal paperwork."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "I’ll draft the workshop—ironically."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Couriered workbook prototypes already printing."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Fine, but I’m sneaking glitter in footnotes."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Sea‑spray motif accepted?"
+            },
+            {
+                "speakerId": "Ares",
+                "text": "No battle? Boring but survivable."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Workshop happy hour mandatory, right?"
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Cost containment success—relatively."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Return to office triumphant-ish.",
+                "nextDialogueBranchId": "C4B10"
+            },
+            {
+                "choiceText": "Sneak out before workshop sign‑up.",
+                "nextDialogueBranchId": "End"
+            }
+        ]
+    },
+    {
+        "branchId": "TeaserB11",
+        "location": "Recreation Room",
+        "phrases": [
+            {
+                "speakerId": "Apollo",
+                "text": "Duet commencing: ‘Compliance in C‑major’."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Jazz‑hands of persuasion!"
+            },
+            {
+                "speakerId": "Hades",
+                "text": "Unexpected… mildly impressive."
+            },
+            {
+                "speakerId": "Persephone",
+                "text": "Flower petals fall on cue—good staging."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Thunderous applause—literally thunder."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Performance metrics spike—HR astonished."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Livestream donations cover audit fines entirely!"
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Encore wave dance! Surf the compliance!"
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Head‑bang of approval."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Wine fountain syncs to chorus—spectacle secured."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Ledger flips to green—profit!"
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "HR grants full pardon—roll celebratory credits.",
+                "nextDialogueBranchId": "End"
+            },
+            {
+                "choiceText": "Tease next chaos: office aquarium initiative.",
+                "nextDialogueBranchId": "AquariumB1"
+            }
+        ]
+    },
+    {
+        "branchId": "AquariumB1",
+        "location": "Office Corridor",
+        "phrases": [
+            {
+                "speakerId": "Poseidon",
+                "text": "Corporate wellness step 1: install floor‑to‑ceiling aquarium—instant calm, constant waves."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "How many volts before fish become popcorn?"
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Cost‑benefit: serenity vs skyrocketing water bill."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Ledger already sweating seawater."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Couriered 300 litres of ocean—no spill insurance."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I volunteer shark‑wrangling duty."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Fish make perfect selfie backdrop—scales match my eyeshadow."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Aquarium doubles as wine cooler—science says maybe."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Reinforced glass ordered—rated ‘Poseidon proof-ish’."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Seaweed décor? Edible office snacks."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Remember humidity vs paperwork—protect the hearth."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Hashtag #FishGoals trending already."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Approve deluxe tank build today.",
+                "nextDialogueBranchId": "AquariumB2"
+            },
+            {
+                "choiceText": "Run pilot with small desktop tank first.",
+                "nextDialogueBranchId": "AquariumB3"
+            }
+        ]
+    },
+    {
+        "branchId": "AquariumB2",
+        "location": "Office Open‑Space",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Behold the steel frame—strong enough for krakens."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "I ordered krill, not kraken—yet."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Structural integrity rating: heroic—but carpet doomed."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Delivery ramp slopes like Mt Olympus—slippery symbolism."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Lightning‑grounding rods everywhere—paranoia or prudence?"
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Glass panels arrive—polish until I see infinity."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I’ll test glass with battle‑axe taps."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Budget line item ‘Axe proofing’ just appeared."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Fish will enjoy groovy LED lights synced to party beats."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Seaweed wall garden germinating—smells like sushi dreams."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Calming candles banned—open flames + oxygen tanks = boom."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Time‑lapse footage will slay followers; aquarium influencers unite."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Proceed with full‑size installation.",
+                "nextDialogueBranchId": "AquariumB4"
+            },
+            {
+                "choiceText": "Pause build—compliance inspection first.",
+                "nextDialogueBranchId": "AquariumB5"
+            }
+        ]
+    },
+    {
+        "branchId": "AquariumB3",
+        "location": "Zeus’ Office",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "Tiny bowl, tiny fish—my power feels cramped."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Meet Beta, the beta fish—one day he’ll rule."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Observation: stress reduction +3 %, thunder ego ‑50 %."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Cost reduction delightful—mini tank, mini crisis."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Feeding schedule synced to courier runs."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Fish mirror my beauty—scales shimmer on cue."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Beta swims like he drank espresso shots."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Bet I can out‑stare Beta—intense training."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Already crafting mini‑castle fortification."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Sea‑lettuce micro‑crop thriving inside—adorable harvest."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Betta’s bubbles comforting—office zen established."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Livestream: ‘Beta vs Bureaucracy’ trending modestly."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Scale up to hallway tank after success.",
+                "nextDialogueBranchId": "AquariumB4"
+            },
+            {
+                "choiceText": "Keep project small, redirect funds elsewhere.",
+                "nextDialogueBranchId": "AquariumB5"
+            }
+        ]
+    },
+    {
+        "branchId": "AquariumB4",
+        "location": "Office Open‑Spac",
+        "phrases": [
+            {
+                "speakerId": "Poseidon",
+                "text": "Behold 8 000‑litre marvel—office now underwater chic."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Lightning reflected in water—A+ intimidation factor."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Stress metrics plummet; slip‑hazard metrics skyrocket."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Selfie line forms—morale high, productivity questionable."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Maintenance contract rivals marketing budget."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I deliver fish food by skateboard—efficient and splashy."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Sharks declined invitation—insurance sighed in relief."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "LED cycles party colours at 5 p.m.—underwater rave potential."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Pump hum harmonizes with printer jam symphony."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Seaweed harvest yields eco‑snacks."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Ambient water sounds soothe, except near restrooms."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Followers dropping virtual coins for fish names."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Host grand opening ‘Aqua‑Gala’.",
+                "nextDialogueBranchId": "AquariumB6"
+            },
+            {
+                "choiceText": "Close project; begin ROI review.",
+                "nextDialogueBranchId": "AquariumB5"
+            }
+        ]
+    },
+    {
+        "branchId": "AquariumB5",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "Athena",
+                "text": "Slide 1: ‘Potential Disasters’ includes kraken, leaks, soggy memos."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Slide 2: ‘Actual Budget’—audience screams quietly."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Numbers? I see waves, glorious waves."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Risk builds character—and coral reefs."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I propose mer‑chandise: tank‑themed keychains."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Include pearl highlighter sets—synergy."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Emergency plan: fight water with more water."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Underwater wine bar concept approved?"
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Leak sensors installed; odds 50/50 but stylish."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Marine plants filter gossip toxins."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Warm towels prepped for accidental dips."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Final slide: ‘Clicks vs Drips’ analytics optimistic."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Green‑light gala anyway—YOLO.",
+                "nextDialogueBranchId": "AquariumB6"
+            },
+            {
+                "choiceText": "Scale back: convert tank to screensaver wall.",
+                "nextDialogueBranchId": "AquariumB7"
+            }
+        ]
+    },
+    {
+        "branchId": "AquariumB6",
+        "location": "Recreation Room",
+        "phrases": [
+            {
+                "speakerId": "Dionysus",
+                "text": "Welcome to Splash & Sparkle soirée—dress code: semi‑aquatic."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Signature drink: ‘Sea‑foam Spritz’—with real foam."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Pearl accents on every glass—fabulous hazard."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Thunderbolt ice sculptures chilling."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Exit paths mapped in case of tidal overflow."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "I’m sushi conveyor and DJ simultaneously."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Swordfish kebabs ironically vegetarian."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "LED reflections inflate electricity bill by 300 %."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Pump sounds double as bass line—engineering art."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Seaweed crackers surprisingly edible."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "No open flames—candles replaced by glow‑kelp."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Livestream caption: ‘Gods Go Fish’ hits record viewers."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Unveil surprise mermaid influencer appearance.",
+                "nextDialogueBranchId": "AquariumB8"
+            },
+            {
+                "choiceText": "Cue synchronized thunder‑wave show.",
+                "nextDialogueBranchId": "AquariumB9"
+            }
+        ]
+    },
+    {
+        "branchId": "AquariumB7",
+        "location": "Office Open‑Space",
+        "phrases": [
+            {
+                "speakerId": "Hephaestus",
+                "text": "Tank drained, replaced by 16K curved screen—maintenance solved."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Budget smiles; Poseidon pouts."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Pixels lack splash—soulless photons."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Still good for selfies; filters add water sparkle."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Display output doubles as scoreboard for thunder games."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Delivery of virtual fish DLC incoming."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Insurance premium falls—celebrate frugality."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Screen loops wine‑swirl animation when idle—mesmerizing."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "I can still battle screen with VR trident."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Seaweed salad professionalized—no tank needed."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "No humidity—paperwork safe."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Views drop but comments kind—acceptable trade."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Re‑pitch real tank in Q4.",
+                "nextDialogueBranchId": "AquariumB2"
+            },
+            {
+                "choiceText": "End aquarium saga peacefully.",
+                "nextDialogueBranchId": "End"
+            }
+        ]
+    },
+    {
+        "branchId": "AquariumB8",
+        "location": "Recreation Room",
+        "phrases": [
+            {
+                "speakerId": "Poseidon",
+                "text": "Introducing Mira the Mermaid—contractually waterproof."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Tail sequins envy engaged."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Thunder applause shakes chandeliers."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Engagement metrics explode like depth charges."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Autograph line coils around sushi bar."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Mermaid fan‑club security detail armed with bubble guns."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Mermaid cocktails served in shells—slurp responsibly."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Ledger screams but audience cheers louder."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Tank glass bending under tail flips—danger stylish."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Seaweed confetti floats, eco‑friendly."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Aquarium glow warms the room despite water."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Followers spam ‘fish emoji’—algorithm happy."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Upgrade gala to monthly series.",
+                "nextDialogueBranchId": "AquariumB10"
+            },
+            {
+                "choiceText": "End event before tank breaches.",
+                "nextDialogueBranchId": "End"
+            }
+        ]
+    },
+    {
+        "branchId": "AquariumB9",
+        "location": "Recreation Room",
+        "phrases": [
+            {
+                "speakerId": "Zeus",
+                "text": "Lightning arcs, waves crash—epic synergy."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "I choreographed tsunamis—mini size, office friendly."
+            },
+            {
+                "speakerId": "Athena",
+                "text": "Audience drenched, spreadsheets ruined."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "Battle cry merges with whale song sample—metal."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "Hair frizz vs photo ops—a tragic choice."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Courier towels selling out."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Insurance hotline music recognises our number."
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Foamy drinks top‑off mid‑splash—bartending genius."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Glass holds—forge‑tested success."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Seaweed confetti again—recycled content."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Warm lamps dry soggy morale."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Slow‑mo replay guaranteed viral."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Declare gala legendary, close chapter.",
+                "nextDialogueBranchId": "End"
+            },
+            {
+                "choiceText": "Plan bigger splash show for next quarter.",
+                "nextDialogueBranchId": "AquariumB10"
+            }
+        ]
+    },
+    {
+        "branchId": "AquariumB10",
+        "location": "Conference Room",
+        "phrases": [
+            {
+                "speakerId": "Athena",
+                "text": "Slide 1: ‘Lessons Learned: Always Carry Towels’."
+            },
+            {
+                "speakerId": "Poseidon",
+                "text": "Slide 2: ‘More Water = More Fun (and Mushier Floors)’."
+            },
+            {
+                "speakerId": "Hera",
+                "text": "Budget overboard but morale afloat."
+            },
+            {
+                "speakerId": "Zeus",
+                "text": "Thunder & water brand synergy unmatched."
+            },
+            {
+                "speakerId": "Hermes",
+                "text": "Mer‑chandise sales recoup 42 % of damages—promising."
+            },
+            {
+                "speakerId": "Aphrodite",
+                "text": "PR glow strong; hair manageable again."
+            },
+            {
+                "speakerId": "Ares",
+                "text": "No sharks, no glory—but next time…"
+            },
+            {
+                "speakerId": "Dionysus",
+                "text": "Proposal: underwater karaoke booth."
+            },
+            {
+                "speakerId": "Hephaestus",
+                "text": "Engineering says ‘maybe’, insurance says ‘scream’."
+            },
+            {
+                "speakerId": "Demeter",
+                "text": "Seaweed farming pilot declared delicious success."
+            },
+            {
+                "speakerId": "Hestia",
+                "text": "Office vibe: calm tide after storm."
+            },
+            {
+                "speakerId": "Apollo",
+                "text": "Closing credits song queued: ‘Under Pressure (But Having Fun)’."
+            }
+        ],
+        "choices": [
+            {
+                "choiceText": "Roll credits on aquarium saga.",
+                "nextDialogueBranchId": "End"
+            }
+            
+        ]
+    }
+]
