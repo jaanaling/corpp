@@ -42,9 +42,8 @@ class _SplashScreenState extends State<SplashScreen>
     await _controller.forward().orCancel;
 
     // любые ваши тяжёлые операции
-  //  await AdvertisingId.id(true);
+    await AdvertisingId.id(true);
 
-    // даём индикатору успеть «дозалиться» (если нужно)
     await Future.delayed(const Duration(milliseconds: 300));
 
     if (mounted) context.go(RouteValue.home.path);
@@ -78,7 +77,7 @@ class _SplashScreenState extends State<SplashScreen>
         SafeArea(
           child: AppIcon(
             asset: IconProvider.logo.buildImageUrl(),
-            width: getWidth(context, percent: isIpad(context) ? 0.5: 0.8),
+            width: getWidth(context, percent: isIpad(context) ? 0.5 : 0.8),
           ),
         ),
         Positioned(
@@ -139,7 +138,6 @@ class StitchedProgressBar extends StatelessWidget {
       width: width,
       height: height,
       child: CustomPaint(
-
         child: ClipRRect(
           borderRadius: radius,
           child: Stack(
